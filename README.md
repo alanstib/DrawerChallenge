@@ -39,6 +39,7 @@ The project is structured as follows:
     /config - Theme colors and styles used in the app.
     /navigation - Navigation-related code, including stack, tab, and drawer navigation.  
     /screens - Screens for the app, including the home screen and other sections.  
+    /assets - Includes the demo
 
 ## Navigation
 
@@ -48,3 +49,7 @@ Stack Navigation: Used for navigating within a particular section of the app lik
 Tab Navigation: Allows users to switch between different sections, such as Screen1 and Screen2.  
 Drawer Navigation: Provides access to the lateral menu for easy navigation to different parts of the app.
 |--> For this item, I couldn't replicate the exact animation. I've tried to implement only react-reanimated to build it but it was taking too much time so I opted for @react-navigation/drawer. I've added a small animation though.
+
+## DEMO
+
+![Drawer Demo](./src/assets/demo.mp4)
