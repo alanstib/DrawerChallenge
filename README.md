@@ -52,4 +52,4 @@ Drawer Navigation: Provides access to the lateral menu for easy navigation to di
 
 ## DEMO
 
-![Drawer Demo](./src/assets/demo.mp4)
+![Drawer Demo](./src/assets/demo.gif)
